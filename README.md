@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pedram-K
-- 👀 I’m interested in Python & A.I & Pentest and Flutter
+- 👀 I’m interested in Python & A.I & Web Pentest
 - 🌱 I’m currently ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --->Email: someone.who.wants.to.be.a.dude@gmail.com
